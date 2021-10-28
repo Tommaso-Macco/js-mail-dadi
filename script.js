@@ -7,7 +7,7 @@ let emailUser = prompt("inserisci l'email")
 
 // Creiamo una lista di email consentite grazie ad un array
 
-const emailApproved= ["giorgio@gmail.com", "mattia@gmail.com", "giorgia@gmail.com", "tommaso@gmail.com"];
+const emailApproved = ["giorgio@gmail.com", "mattia@gmail.com", "giorgia@gmail.com", "tommaso@gmail.com"];
 
 // Adesso confrontiamo le email e decidiamo se l'utente può entrare nel sito oppure no
 
